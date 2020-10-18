@@ -1,4 +1,6 @@
-# vue-next-starter
+# vue-next-demo
+
+TSX + Vue3
 
 ## Project setup
 ```
