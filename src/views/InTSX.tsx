@@ -28,7 +28,7 @@ export default defineComponent({
         <h1>Vue TSX <span>{s['tsx']}</span></h1>
         <section>
           {this.stateRef.map((v, i) => (
-            <div key={i} style={{ margin: "10px 0" }}>
+            <div key={i} style={{ margin: "20px 0" }}>
               <label style={{ padding: "10px" }}>
                 <span>value1: </span>
                 <Input

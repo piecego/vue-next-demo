@@ -4,7 +4,7 @@
       Vue Template <span>{{ s["template"] }}</span>
     </h1>
     <section>
-      <div v-for="(v, i) in stateRef" :key="i" style="margin: 10px 0">
+      <div v-for="(v, i) in stateRef" :key="i" style="margin: 20px 0">
         <label style="padding: 10px">
           <span>value1: </span>
           <Input
